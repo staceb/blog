@@ -8,3 +8,5 @@ description: Something real quick
 All you want to do is use DNS Control.
 
 Then you will be happy.
+
+It's really cool!
