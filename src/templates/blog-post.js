@@ -17,7 +17,7 @@ class BlogPostTemplate extends React.Component {
         <Helmet 
           title={`${post.frontmatter.title} | ${siteTitle}`}
           meta={[
-            { name: 'description', content: 'Matt Cantys blog.' },
+            { name: 'description', content: `Matt Canty's blog.` },
             { name: 'keywords', content: 'matt canty, blog, matthew canty, bass, cycling, music, guitar, gardening' },
           ]}
         >
