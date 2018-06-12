@@ -64,5 +64,17 @@ module.exports = {
         }
       }
     },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: "Matt Canty's Blog",
+        short_name: "Matt Canty",
+        start_url: "/",
+        background_color: "#000000",
+        theme_color: "#ffffff",
+        display: "minimal-ui",
+        icon: "src/components/profile-pic.jpg",
+      },
+    },
   ],
 }
