@@ -1,9 +1,5 @@
 import React from 'react'
 
-// Import typefaces
-import 'typeface-montserrat'
-import 'typeface-merriweather'
-
 import profilePic from './profile-pic.jpg'
 import { rhythm } from '../utils/typography'
 
@@ -30,7 +26,7 @@ class Bio extends React.Component {
            Written by <strong>Matt Canty</strong>. If you have any comments
            or want to start a conversation,{' '}
           <a href="mailto:matthewcanty@gmail.com">
-            email me.
+            email me
           </a>:{' '}
           matthewcanty@gmail.com
         </p>
