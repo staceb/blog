@@ -13,7 +13,13 @@ class BlogIndex extends React.Component {
 
     return (
       <div>
-        <Helmet title={siteTitle}>
+        <Helmet
+          title={siteTitle}
+          meta={[
+            { name: 'description', content: 'Matt Cantys blog.' },
+            { name: 'keywords', content: 'matt canty, blog, matthew canty, bass, cycling, music, guitar, gardening' },
+          ]}
+        >
           <html lang="en" />
         </Helmet>
         <Bio />
