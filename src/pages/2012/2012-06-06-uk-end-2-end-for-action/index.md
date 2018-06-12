@@ -3,8 +3,7 @@ title: UK End 2 End Bike Ride for Action
 date: "2012-06-06T12:00:00.000Z"
 ---
 
-https://www.youtube.com/watch?v=SaVPhWxMW8I
-
+`youtube:https://www.youtube.com/embed/SaVPhWxMW8I`
 **WOW! What a journey.** I got back last night and this is there first time I
 have been on my own with my thoughts for two weeks. It’s been an insane
 experience to be part of. Just watched the weather and it really came to light
@@ -75,8 +74,7 @@ night and with what little I got was interrupted at 5am. The video provides an
 insight to this most wondrous time of the morning and how we are to be forcibly
 woken for the next 8 or 9 mornings.
 
-https://www.youtube.com/watch?v=_ywfvrZBmrw
-
+`youtube:https://www.youtube.com/embed/_ywfvrZBmrw`
 But of a sluggish start, but everything got together well in the end. Breakfast
 was a feast of a a full English breakfast, followed by a bowl of porridge with
 honey and a banana. Following this stock intake we cycled down to the coast,
