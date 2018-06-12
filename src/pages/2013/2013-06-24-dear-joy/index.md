@@ -8,9 +8,9 @@ There is the release of Cartoon Song online, the fantastic Cartoon Song video
 starring myself and Jane, the About A Kite live video AND the Dear Joy EP launch
 tomorrow night! Here are the videos…
 
-https://www.youtube.com/watch?v=XBZHFyevkiE
+`youtube: XBZHFyevkiE`
 
-https://www.youtube.com/watch?v=KX6FT7P6Mtg
+`youtube: `KX6FT7P6Mtg`
 
 So if you like that and that then why don’t you go over to
 [Facebook](https://en-gb.facebook.com/dearjoymusic/) page or the
