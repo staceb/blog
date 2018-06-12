@@ -57,7 +57,7 @@ module.exports = {
       resolve: 'gatsby-plugin-purify-css',
       options: {
         /* Defaults */
-        styleId: 'gatsby-inlined-css',
+        styleId: 'typography.js',
         purifyOptions: {
           info: true,
           minify: true
