@@ -31,7 +31,8 @@ class Bio extends React.Component {
            or want to start a conversation,{' '}
           <a href="mailto:matthewcanty@gmail.com">
             email me.
-          </a>
+          </a>:{' '}
+          matthewcanty@gmail.com
         </p>
       </div>
     )
