@@ -12,7 +12,8 @@ A frequent question arises when I talk about my work, and that is:
 Lets start off slow. I am a programmer, otherwise known as a developer. This
 essentially means I develop programs to make computers to do things.
 
-I’ll get on to day-to-day examples of what I do at work later, but for now let me introduce you to some code.
+I’ll get on to day-to-day examples of what I do at work later, but for now let
+me introduce you to some code.
 
 # Some Code
 
@@ -62,7 +63,11 @@ is that!
 
 # How Neat Is That?
 
-I’m sure that you’ll all agree that is not the neatest thing you’ve seen up to this point in your life so far. But this really is the basis of most programming… That and loops – keep doing this until something happens, and this and that and the other thing until everyone is happy and we all go to bed and sleep happily ever after.
+I’m sure that you’ll all agree that is not the neatest thing you’ve seen up to
+this point in your life so far. But this really is the basis of most
+programming… That and loops – keep doing this until something happens, and this
+and that and the other thing until everyone is happy and we all go to bed and
+sleep happily ever after.
 
 # What About Work, That Hasn’t Been Answered Yet…
 
@@ -77,14 +82,25 @@ Start developing a new feature
 Fix any issues with an existing feature
 Write tests – these are also in code – to prove a feature works as intended
 Respond to queries from clients of data my system provides
-Investigate an issue, this might involve reading logs, monitoring diagnostics – if you’ve made them! – and contacting 3rd parties for more information
-You can never really know what is going to happen day to day. But most of the time – perhaps 75% of it – I am programming code in a program called Visual Studio. Microsoft develop Visual Studio – an Integrated Development Environment or IDE – to aid programmers in producing C# code – and any other .Net (dot net) supported language.
+Investigate an issue, this might involve reading logs, monitoring diagnostics –
+if you’ve made them! – and contacting 3rd parties for more information
+You can never really know what is going to happen day to day. But most of the
+time – perhaps 75% of it – I am programming code in a program called Visual
+Studio. Microsoft develop Visual Studio – an Integrated Development Environment
+or IDE – to aid programmers in producing C# code – and any other .Net (dot net)
+supported language.
 
 # Slow Down… C# – Have We Moved Onto Music?
 
-Not at all, this is a programming language. There are hundreds of programming languages – http://en.wikipedia.org/wiki/Comparison_of_programming_languages – and C# is just one of them. You might call C# the successor of C++ – which succeeded C. However you would be wrong to think that new languages are better or worse. In fact, until Apple unveiled Swift their apps were written in Objective-C which was first developed in 1981 – nearly 20 years before C#!
+Not at all, this is a programming language. There are hundreds of programming
+languages – http://en.wikipedia.org/wiki/Comparison_of_programming_languages –
+and C# is just one of them. You might call C# the successor of C++ – which
+succeeded C. However you would be wrong to think that new languages are better
+or worse. In fact, until Apple unveiled Swift their apps were written in
+Objective-C which was first developed in 1981 – nearly 20 years before C#!
 
-Apart from the fact that C# is developed by Microsoft who are Apple’s arch rivals, there are all sorts of reasons to choose various languages.
+Apart from the fact that C# is developed by Microsoft who are Apple’s arch
+rivals, there are all sorts of reasons to choose various languages.
 
 Here are some you might have heard of:
 
