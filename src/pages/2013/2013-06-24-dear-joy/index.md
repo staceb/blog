@@ -10,7 +10,7 @@ tomorrow night! Here are the videos…
 
 `youtube: XBZHFyevkiE`
 
-`youtube: `KX6FT7P6Mtg`
+`youtube: KX6FT7P6Mtg`
 
 So if you like that and that then why don’t you go over to
 [Facebook](https://en-gb.facebook.com/dearjoymusic/) page or the
