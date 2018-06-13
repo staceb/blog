@@ -19,16 +19,6 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: `gatsby-remark-prismjs`,
-            options: {
-              classPrefix: "language-",
-              inlineCodeMarker: '›',
-              aliases: {
-                sh: "bash"
-              },
-            },
-          },
-          {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 590,
@@ -43,6 +33,16 @@ module.exports = {
               related: false,
               noIframeBorder: true
             }
+          },
+          {
+            resolve: `gatsby-remark-prismjs`,
+            options: {
+              classPrefix: "language-",
+              inlineCodeMarker: '›',
+              aliases: {
+                sh: "bash"
+              },
+            },
           },
           {
             resolve: `gatsby-remark-responsive-iframe`,
