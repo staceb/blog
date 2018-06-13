@@ -1,3 +1,4 @@
+require("prismjs/themes/prism.css");
 import React from 'react'
 import Link from 'gatsby-link'
 
@@ -30,7 +31,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Matt Canty's Blog
+            Matt Canty&#39;s Blog
           </Link>
         </h1>
       )
@@ -51,7 +52,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Matt Canty's Blog
+            Matt Canty&#39;s Blog
           </Link>
         </h3>
       )
