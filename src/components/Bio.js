@@ -25,10 +25,10 @@ class Bio extends React.Component {
         <p>
           Written by <strong>Matt Canty</strong>. If you have any comments
           or want to start a conversation,{' '}
-          <a href="mailto:matthewcanty@gmail.com">
+          <a href="mailto:hello@mattcanty.com">
             email me
           </a>{' '}
-          at matthewcanty@gmail.com.
+          at hello@mattcanty.com.
         </p>
       </div>
     )

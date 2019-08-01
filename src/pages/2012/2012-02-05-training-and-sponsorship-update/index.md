@@ -114,4 +114,4 @@ PICTURE OF A NUMPTY
 * My Training Log: https://docs.google.com/spreadsheet/ccc?key=0Av1hLWzCIl1PdHBlX1YtMXlxbVl3TEU1Rk9VdXh5Q0E
 * Action Medical Research: http://www.action.org.uk/
 * End 2 End: http://www.ukend2end.com/
-* My Email: matthewcanty@gmail.com
+* My Email: hello@mattcanty.com
